@@ -344,11 +344,6 @@ for chunk in pd.read_csv('logs.csv', chunksize=chunk_size):
 - [ ] Suporte para múltiplos formatos de log
 - [ ] Dashboard em tempo real
 
-## 📞 Suporte
-
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/suspicious-pattern-detector/issues)
-- **Documentação**: [Wiki do Projeto](https://github.com/seu-usuario/suspicious-pattern-detector/wiki)
-- **Discussões**: [GitHub Discussions](https://github.com/seu-usuario/suspicious-pattern-detector/discussions)
 
 ## 📄 Licença
 
