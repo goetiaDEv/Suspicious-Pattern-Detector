@@ -1,5 +1,6 @@
 # 🔍 Detector de Padrões Suspeitos - SOC Blue Team
 
+(Still in development)
 Um sistema automatizado de detecção de ameaças para análise de logs em ambientes SOC (Security Operations Center), desenvolvido para equipes de Blue Team.
 
 ## 📋 Índice
